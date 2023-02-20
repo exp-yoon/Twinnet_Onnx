@@ -228,7 +228,7 @@ if __name__ == '__main__':
 
 
     if config.is_train:
-        train(
+        train()
         test()
     else:
         test()
